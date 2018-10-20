@@ -1,1 +1,3 @@
-Ceci est la première ligne depuis mon PC en locale
+Ceci est la premiÃ¨re ligne depuis mon PC en locale
+
+Je fais cette modif depuis GitHub !
